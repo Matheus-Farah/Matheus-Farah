@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matheus Farah</h1>
 <h3 align="center">A FrontEnd developer from Brazil</h3>
-<img align="center" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 - 🔭 I’m currently working at **ED**
 
