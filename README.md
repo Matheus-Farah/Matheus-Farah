@@ -25,6 +25,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matheus-farah&show_icons=true&locale=en" alt="matheus-farah" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matheus-farah&" alt="matheus-farah" /></p>
+<p><img align="center" display="inline" src="https://github-readme-streak-stats.herokuapp.com/?user=matheus-farah&" alt="matheus-farah" /></p>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheus-farah&show_icons=true&locale=en&layout=compact" alt="matheus-farah" /></p>
