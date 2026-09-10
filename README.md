@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Matheus Farah</h1>
-<h3 align="center">A FrontEnd developer from Brazil</h3>
+<h3 align="center">A FullStack Developer from Brazil</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Matheus-Farah](https://github.com/Matheus-Farah)
 
-- 💬 Ask me about **React, React-Native, HTML, CSS, Javascript, Typescript**
+- 💬 Ask me about **React, React-Native, HTML, CSS, Javascript, Typescript, Angular, Java, C#, Python**
 
 - 📫 How to reach me **matheusfarah00@gmail.com**
 
